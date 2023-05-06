@@ -14,7 +14,8 @@
 			"extensions": [
 				"usernamehw.errorlens",
 				"bungcip.better-toml",
-				"formulahendry.code-runner"
+				"formulahendry.code-runner",
+				"Bito.Bito"
 			]
 		}
 	},
